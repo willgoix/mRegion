@@ -1,0 +1,5 @@
+name: mRegion
+main: com.mathi.region.mRegion
+version: 0.0.1
+author: zMathi
+description: Simples proteção de regiões com flags.
